@@ -15,6 +15,9 @@ const winningPositions=[
     [0,4,8],
     [2,4,6]
 ];
+
+
+//dfdfbdsjfdsf
 function initGame(){
     currentPlayer="X";
     gameGrid=["","","","","","","","",""];
